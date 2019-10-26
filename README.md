@@ -99,6 +99,7 @@ This formula features the following libraries optionally:
 | `librsvg` | SVG files as inputs via librsvg |
 | `libsoxr` | soxr resample library |
 | `libssh` | SFTP protocol via libssh |
+| `libtensorflow` | Tensorflow C library |
 | `libvidstab` | vid.stab support for video stabilization |
 | `libvmaf` | VMAF video quality metric |
 | `libxml2` | libxml2 library |
